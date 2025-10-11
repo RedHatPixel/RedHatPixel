@@ -9,9 +9,7 @@ A passionate IT Student from the Philippines with a keen interest in building in
 
 </div>
 
-<div align="center">
 ## 🌟 About Me
-</div>
 
 - 🔭 **Currently working on**: Web development and game applications, often combining both for interactive experiences.
 - 🌱 **Learning**: Next.js, Sass, Tailwind CSS, Laravel, and Godot for advanced full-stack and game dev.
@@ -19,9 +17,9 @@ A passionate IT Student from the Philippines with a keen interest in building in
 - 💬 **Ask me about**: Games, game development, or full-stack tech! I'm here to help or be helped.
 - ⚡ **Fun fact**: A pixel art enthusiast who dreams in code and 8-bit adventures.
 
-<div align="center">
-
 ---
+
+<div align="center">
 
 ### Frontend & Frameworks
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> 
@@ -48,9 +46,7 @@ A passionate IT Student from the Philippines with a keen interest in building in
 
 </div>
 
-<div align="center">
 ## 📫 Connect with Me
-</div>
 
 - 📧 **Email**: [camar.mobarahk0@gmail.com](mailto:camar.mobarahk0@gmail.com)
 - 🌐 **Portfolio**: [camar-portfolio.vercel.app](https://camar-portfolio.vercel.app/)
