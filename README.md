@@ -9,7 +9,10 @@ A passionate IT Student from the Philippines with a keen interest in building in
 
 </div>
 
+<div align="center">
 ## 🌟 About Me
+</div>
+
 - 🔭 **Currently working on**: Web development and game applications, often combining both for interactive experiences.
 - 🌱 **Learning**: Next.js, Sass, Tailwind CSS, Laravel, and Godot for advanced full-stack and game dev.
 - 👯 **Open to collaborate on**: Game applications and web projects—I'm always eager to learn and contribute.
@@ -18,7 +21,7 @@ A passionate IT Student from the Philippines with a keen interest in building in
 
 <div align="center">
 
-## 🛠️ Tech Stack
+---
 
 ### Frontend & Frameworks
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> 
@@ -45,15 +48,15 @@ A passionate IT Student from the Philippines with a keen interest in building in
 
 </div>
 
-## 📫 Connect with Me
 <div align="center">
+## 📫 Connect with Me
+</div>
 
 - 📧 **Email**: [camar.mobarahk0@gmail.com](mailto:camar.mobarahk0@gmail.com)
 - 🌐 **Portfolio**: [camar-portfolio.vercel.app](https://camar-portfolio.vercel.app/)
 - 👥 **Facebook**: [Profile](https://www.facebook.com/profile.php?id=100074864673092)
 - 💼 **LinkedIn**: [mobarahk-camar](https://www.linkedin.com/in/mobarahk-camar-9070362b3)
 
-</div>
 
 <div align="center">
   
@@ -63,13 +66,6 @@ A passionate IT Student from the Philippines with a keen interest in building in
 
 <!-- Optional: Add Streak Stats for More Polish -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=RedHatPixel&theme=radical&hide_border=true&background=110101&stroke=a29988&ring=a29988&fire=orange&currStreakNum=bg_color=110101&currStreakLabel=a29988&sideNums=a29988&currStreakNum=a29988&dates=a29988" alt="GitHub Streak" width="48%" />
-
-</div>
-
-<div align="center">
-
-<!-- Snake Animation (Once Set Up) -->
-![Snake animation](https://github.com/RedHatPixel/RedHatPixel/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
