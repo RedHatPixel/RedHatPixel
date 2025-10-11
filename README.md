@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Banner -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&weight=700&size=32&pause=1000&color=FFFFFF&center=true&vCenter=true&random=false&width=700&height=100&lines=Welcome+to+My+Profile;Full+Stack+Developer+%26+Enthusiast&background=8B0000" alt="Typing SVG Banner" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=28&pause=1000&color=a29988&center=true&vCenter=true&random=false&width=800&height=120&lines=Welcome+to+My+Profile;Full+Stack+Developer&background=110101" alt="Typing SVG Banner" />
 
 # Hi there, I'm Camar, Mobarahk A. 👋
 
@@ -43,7 +43,10 @@ A passionate IT Student from Philippines with a keen interest in building web ap
 </div>
 
 ## 📫 Connect with Me
-- 📧 Email: camar.mobarahk0@gmail.com
+- 📧 **Email**: [camar.mobarahk0@gmail.com](mailto:camar.mobarahk0@gmail.com)
+- 🌐 **Portfolio**: [camar-portfolio.vercel.app](https://camar-portfolio.vercel.app/)
+- 👥 **Facebook**: [Profile](https://www.facebook.com/profile.php?id=100074864673092)
+- 💼 **LinkedIn**: [in/mobarahk-camar](https://www.linkedin.com/in/mobarahk-camar-9070362b3)
 
 <div align="center">
   
