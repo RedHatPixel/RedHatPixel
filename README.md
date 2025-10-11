@@ -51,9 +51,3 @@ A passionate IT Student from Philippines with a keen interest in building web ap
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedHatPixel&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="48%" />
 
 </div>
-
-<div align="center">
-  
-![Snake animation](https://github.com/RedHatPixel/RedHatPixel/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
