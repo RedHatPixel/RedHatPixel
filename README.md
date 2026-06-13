@@ -1,74 +1,108 @@
 <div align="center">
 
-<!-- Polished Banner -->
-<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=28&pause=1000&color=fff&center=true&vCenter=true&random=false&width=800&height=120&lines=Welcome+to+My+Profile;Full+Stack+Developer&background=110101" alt="Typing SVG Banner" />
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,0,0,185,28,28,220,38,38&height=220&section=header&text=Camar%20A.%20Mobarahk&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20Developer%20%E2%80%A2%20IT%20Student%20%E2%80%A2%20Game%20Dev&descSize=18&descAlignY=58)
 
-# Hi there, I'm **Camar A. Mobarahk** 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=EF4444&center=true&vCenter=true&width=600&lines=FULL-STACK+WEB+DEVELOPER;GAME+DEVELOPER;PIXEL+ART+ENTHUSIAST)](https://git.io/typing-svg)
 
-A passionate IT Student from the Philippines with a keen interest in building innovative web applications and games. I thrive on turning ideas and passions into engaging projects that blend creativity with technology.
+<br/>
 
-</div>
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-visit_site-EF4444?style=for-the-badge&labelColor=0D0D0D)](https://camar-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0D0D0D)](https://www.linkedin.com/in/mobarahk-camar-9070362b3)
+[![Email](https://img.shields.io/badge/Email-contact-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D0D0D)](mailto:camar.mobarahk0@gmail.com)
+[![Facebook](https://img.shields.io/badge/Facebook-add-1877F2?style=for-the-badge&logo=facebook&logoColor=white&labelColor=0D0D0D)](https://www.facebook.com/profile.php?id=100074864673092)
 
-## 🌟 About Me
-
-- 🔭 **Currently working on**: Web development and game applications, often combining both for interactive experiences.
-- 🌱 **Learning**: Next.js, Sass, Tailwind CSS, Laravel, and Godot for advanced full-stack and game dev.
-- 👯 **Open to collaborate on**: Game applications and web projects—I'm always eager to learn and contribute.
-- 💬 **Ask me about**: Games, game development, or full-stack tech! I'm here to help or be helped.
-- ⚡ **Fun fact**: A pixel art enthusiast who dreams in code and 8-bit adventures.
-
----
-
-<div align="center">
-
-### Frontend & Frameworks
-<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> 
-<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" /> 
-<img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" /> 
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
-
-### Backend & Languages
-<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" /> 
-<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" /> 
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" /> 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" /> 
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-
-### Databases
-<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /> 
-<img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-
-### Tools & IDEs
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> 
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" /> 
-<img src="https://img.shields.io/badge/NetBeans-FDEA21?style=for-the-badge&logo=netbeans&logoColor=000000" alt="NetBeans" /> 
-<img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" alt="Godot" />
+![Profile Views](https://komarev.com/ghpvc/?username=RedHatPixel&style=flat-square&color=EF4444&label=profile+views)
+![Followers](https://img.shields.io/github/followers/RedHatPixel?style=flat-square&color=DC2626&label=followers)
+![Stars](https://img.shields.io/github/stars/RedHatPixel?style=flat-square&color=B91C1C&label=total+stars)
+![Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FRedHatPixel&query=%24.public_repos&label=repos&style=flat-square&color=991B1B)
 
 </div>
 
-## 📫 Connect with Me
+<br/>
 
-- 📧 **Email**: [camar.mobarahk0@gmail.com](mailto:camar.mobarahk0@gmail.com)
-- 🌐 **Portfolio**: [camar-portfolio.vercel.app](https://camar-portfolio.vercel.app/)
-- 👥 **Facebook**: [Profile](https://www.facebook.com/profile.php?id=100074864673092)
-- 💼 **LinkedIn**: [mobarahk-camar](https://www.linkedin.com/in/mobarahk-camar-9070362b3)
+## 🧑‍💻 About Me
 
+<table>
+<tr>
+<td width="55%" valign="top">
+
+```ts
+const camar: Developer = {
+  name:     "Camar A. Mobarahk",
+  alias:    "RedHatPixel",
+  role:     "Full-Stack Developer",
+  location: "Philippines 🇵🇭",
+  studying: "IT Student",
+
+  stack:    ["React", "Next.js", "Laravel", "Tailwind CSS", "PHP"],
+  also:     ["Godot 🎮", "Sass", "Java", "Python"],
+
+  current:  "Building web apps & games",
+  openTo:   ["Collaboration", "Game Apps", "Web Projects"],
+  hobbies:  ["♔ Chess", "🎮 Games", "💻 Coding"],
+  funFact:  "I dream in code and 8-bit adventures ⚡",
+};
+```
+
+</td>
+<td width="45%" valign="top" align="center">
+
+> *"A clean code is not written, its rewritten." - Robert C. Martin*
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ════════════════════ TECH STACK ════════════════════ -->
+
+## 🛠️ Tech Stack
 
 <div align="center">
-  
-<!-- GitHub Stats with Refined Theme -->
-<img src="https://github-readme-stats.vercel.app/api?username=RedHatPixel&show_icons=true&theme=radical&hide_border=true&bg_color=110101&title_color=a29988&text_color=a29988&hide=stars" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedHatPixel&layout=compact&theme=radical&hide_border=true&bg_color=110101&title_color=a29988&text_color=a29988" alt="Top Languages" width="48%" />
 
-<!-- Optional: Add Streak Stats for More Polish -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=RedHatPixel&theme=radical&hide_border=true&background=110101&stroke=a29988&ring=a29988&fire=orange&currStreakNum=bg_color=110101&currStreakLabel=a29988&sideNums=a29988&currStreakNum=a29988&dates=a29988" alt="GitHub Streak" width="48%" />
+| | |
+|---:|:---|
+| **Languages** | <img src="https://skillicons.dev/icons?i=ts,js,php,java,python,cs,dart,html,css&theme=dark" height="40"/> |
+| **Frameworks** | <img src="https://skillicons.dev/icons?i=react,nextjs,laravel,tailwind,bootstrap,tailwindcss&theme=dark" height="40"/> |
+| **Backend & DB** | <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgres,redis&theme=dark" height="40"/> |
+| **3D & Game Dev** | <img src="https://skillicons.dev/icons?i=unity,godot,threejs&theme=dark" height="40"/> |
+| **Tools & DevOps** | <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,figma,vscode,aws&theme=dark" height="40"/> |
 
 </div>
 
----
+<br/>
+
+<!-- ════════════════════ GITHUB STATS ════════════════════ -->
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-*Thanks for visiting! Let's connect and build something awesome together. 🚀*
+<img src="https://github-readme-stats.vercel.app/api?username=RedHatPixel&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=E879F9&text_color=D8B4FE" alt="github stats" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RedHatPixel&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=D8B4FE" alt="top languages" height="170"/>
+
+<img src="https://streak-stats.demolab.com/?user=RedHatPixel&theme=tokyonight&hide_border=true&background=0D1117&ring=C084FC&fire=E879F9&currStreakLabel=C084FC&sideLabels=A855F7&dates=7C3AED" alt="streak stats" width="70%"/>
+
+</div>
+
+### 📈 Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ta1ltail&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=C084FC&line=A855F7&point=E879F9&area=true&area_color=7C3AED" alt="contribution graph" width="98%"/>
+
+</div>
+
+
+<!-- ════════════════════ FOOTER ════════════════════ -->
+
+<div align="center">
+
+### 💜 Thanks for stopping by!
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&duration=4000&pause=2000&color=A855F7&center=true&vCenter=true&width=600&lines=Open+to+freelance+%26+collaboration;Let's+build+something+great+together+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=17,18,19&height=120&section=footer&animation=twinkling)
 
 </div>
