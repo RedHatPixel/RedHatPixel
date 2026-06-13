@@ -62,13 +62,30 @@ const camar: Developer = {
 
 <div align="center">
 
-| **Stack** | |
-|---:|:---|
-| **Languages** | <img src="https://skillicons.dev/icons?i=ts,js,php,java,python,cs,dart,html,css&theme=dark" height="40"/> |
-| **Frameworks** | <img src="https://skillicons.dev/icons?i=react,nextjs,laravel,tailwind,bootstrap,tailwindcss&theme=dark" height="40"/> |
-| **Backend & DB** | <img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgres,redis&theme=dark" height="40"/> |
-| **3D & Game Dev** | <img src="https://skillicons.dev/icons?i=unity,godot,threejs&theme=dark" height="40"/> |
-| **Tools & DevOps** | <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,figma,vscode,aws&theme=dark" height="40"/> |
+<table>
+  <tbody>
+    <tr>
+      <td align="right"><strong>Languages</strong></td>
+      <td align="left"><img src="https://skillicons.dev/icons?i=ts,js,php,java,python,cs,dart,html,css&theme=dark" height="40"/></td>
+    </tr>
+    <tr>
+      <td align="right"><strong>Frameworks</strong></td>
+      <td align="left"><img src="https://skillicons.dev/icons?i=react,nextjs,laravel,tailwind,bootstrap&theme=dark" height="40"/></td>
+    </tr>
+    <tr>
+      <td align="right"><strong>Backend & DB</strong></td>
+      <td align="left"><img src="https://skillicons.dev/icons?i=nodejs,express,mysql,postgres,redis&theme=dark" height="40"/></td>
+    </tr>
+    <tr>
+      <td align="right"><strong>3D & Game Dev</strong></td>
+      <td align="left"><img src="https://skillicons.dev/icons?i=unity,godot,threejs&theme=dark" height="40"/></td>
+    </tr>
+    <tr>
+      <td align="right"><strong>Tools & DevOps</strong></td>
+      <td align="left"><img src="https://skillicons.dev/icons?i=git,github,docker,vercel,figma,vscode,aws&theme=dark" height="40"/></td>
+    </tr>
+  </tbody>
+</table>
 
 </div>
 
@@ -87,7 +104,7 @@ const camar: Developer = {
 
 </div>
 
-### 📈 Activity
+## 📈 Activity
 
 <div align="center">
 
