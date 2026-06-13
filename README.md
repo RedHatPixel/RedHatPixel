@@ -62,6 +62,7 @@ const camar: Developer = {
 
 <div align="center">
 
+| **Stack** | |
 |---:|:---|
 | **Languages** | <img src="https://skillicons.dev/icons?i=ts,js,php,java,python,cs,dart,html,css&theme=dark" height="40"/> |
 | **Frameworks** | <img src="https://skillicons.dev/icons?i=react,nextjs,laravel,tailwind,bootstrap,tailwindcss&theme=dark" height="40"/> |
@@ -93,16 +94,8 @@ const camar: Developer = {
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=RedHatPixel&hide_border=true&bg_color=0D1117&color=EF4444&line=DC2626&point=B91C1C&area=true&area_color=7F1D1D" alt="contribution graph" width="98%"/>
 
 <br/>
-<br/>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RedHatPixel/RedHatPixel/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RedHatPixel/RedHatPixel/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/RedHatPixel/RedHatPixel/output/github-contribution-grid-snake.svg" width="98%">
-</picture>
 
 </div>
-
 
 <div align="center">
 
